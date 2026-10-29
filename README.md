@@ -4,7 +4,7 @@
 **Author & Team:** Shivam Dube (Kaggle: `fantom king 007` / GitHub: `Shivamdube007` / Git Author: `Shivam Dube 007`)  
 **Competition:** [Kaggle - Tabular Time Series Trading Signal Classification](https://www.kaggle.com/competitions/tabular-time-series-trading-signal-classification)  
 **Host Review Thread:** [📢 Important: Final Leaderboard Check](https://www.kaggle.com/competitions/tabular-time-series-trading-signal-classification/discussion/753088)  
-**Host:** Akmal Azzam o'g'li (`@akmalmir` / `@akaexcel`)
+**Host:** Akmal Azzam o'g'li (Kaggle: [@akmalmir](https://www.kaggle.com/akmalmir) / [@akaexcel](https://www.kaggle.com/akaexcel) | GitHub: @AkmalMir)
 
 ---
 

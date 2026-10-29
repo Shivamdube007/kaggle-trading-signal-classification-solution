@@ -1,0 +1,17 @@
+{
+  "id": "fantomking007/trading-signal-classification-defense",
+  "title": "Trading Signal Classification Defense",
+  "code_file": "trading_signal_grandmaster.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [
+    "tabular-time-series-trading-signal-classification"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}
